@@ -1,0 +1,19 @@
+<!DOCTYE html>
+  <html>
+      <head>
+	    COMP205-LAB-TASK2
+	  <head/>
+	  <h1>
+	    HARPREET SINGH
+	  <h1/>
+	  <h2>
+	    MY CONTACT NUMBER
+	  <body>
+	    1604 Station Road
+		Postal Code - K6H7E7
+		Cornwall,Ontario
+		+14377745377
+	  <body/>
+	  <h2/>
+	
+	    
